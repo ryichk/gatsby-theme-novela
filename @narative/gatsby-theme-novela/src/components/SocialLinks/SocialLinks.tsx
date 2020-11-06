@@ -32,6 +32,7 @@ const icons = {
   tripadvisor: Icons.TripAdvisor,
   buymeacoffee: Icons.Buymeacoffee,
   mailto: Icons.Mailto,
+  note: Icons.Note,
   url: Icons.Url
 };
 
